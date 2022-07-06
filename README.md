@@ -37,3 +37,8 @@
 2. 섹션8 - 연습
 3. 섹션9 - fragment, portals & refs
 4. 섹션10 - useEffect
+
+### 07/02~07/05 여름휴가~
+
+### 07/06
+1. 섹션 10 - useReducer, Context API, Hooks
