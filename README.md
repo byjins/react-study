@@ -57,3 +57,7 @@
 ### 07/10
 1. 섹션 17 - orderapp http요청으로 주문하기 기능
 2. 섹션 18 - redux(238)
+
+### 07/11
+1. 섹션 18 - redux, redux-toolkit
+2. 섹션 19 - redux 고급
